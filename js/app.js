@@ -6389,7 +6389,7 @@
             duration: 2800
         });
         scrollreveal_es().reveal(".header, .partners", {
-            origin: "top",
+            origin: "left",
             distance: "50px"
         });
         scrollreveal_es().reveal(".main-block__title, .main-block__product", {
