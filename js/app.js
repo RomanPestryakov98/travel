@@ -6389,8 +6389,9 @@
             duration: 2800
         });
         scrollreveal_es().reveal(".header, .partners", {
-            origin: "left",
-            distance: "50px"
+            origin: "top",
+            distance: "50px",
+		mobile: false
         });
         scrollreveal_es().reveal(".main-block__title, .main-block__product", {
             origin: "left"
